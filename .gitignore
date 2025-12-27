@@ -1,0 +1,11 @@
+# MATLAB data & results
+*.mat
+*.csv
+*.asv
+
+# Simulation / experiment results
+*_Results*
+*_results*
+
+# Data files
+data/
